@@ -1,0 +1,44 @@
+body {
+    font-size: 1.3em;
+}
+
+div {
+    padding: 1em;
+}
+#main {
+
+	text-align: center;
+	width: 100%;
+	font-family: Helvetica;
+}
+
+#generated_figure {
+	font-size: 3em;
+	color: #444;
+}
+
+#generated_figureDescription {
+	font-size: 2.2em;
+}
+
+#generate, #generateDescription {
+
+	font-size: 2em;
+	font-family: Helvetica;
+	font-style: italic;
+	padding:5px;
+  	background-color: #fff;
+  	border: none;
+  	color:#000;
+  	text-decoration:none;
+
+}
+
+#generate:hover {
+	color: #FA14B1;
+
+}
+
+#generateDescription:hover {
+	color: #14E3FA;
+}
